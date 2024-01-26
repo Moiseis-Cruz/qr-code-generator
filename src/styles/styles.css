@@ -28,11 +28,20 @@ body {
 }
 
 #output {
-    background-color: #2c7dfa;
-    width: 280px;
-    height: 280px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 15px;
-  }
+  background-color: #2c7dfa;
+  width: 280px;
+  height: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+#text {
+  width: 100%;
+  margin-top: 20px;
+  height: 40px;
+  font: 20px;
+  padding-left: 12px;
+  border-radius: 8px;
+}
